@@ -3,7 +3,7 @@
  * https://github.com/facebook/react-native
  *
  * @format
- * @flow teste
+ * @flow
  */
 
 import React from 'react';
